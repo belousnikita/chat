@@ -1,0 +1,26 @@
+{
+  "one": "two",
+  "users": [
+    {
+      "username": "anna",
+      "messages": [
+        {
+          "user": "anna",
+          "text": "Hello!",
+          "id": "0",
+          "sendAt": "2019-05-06T19:31:39.458Z"
+        },
+        {
+          "user": "anna",
+          "text": "How are you?",
+          "id": "1",
+          "sendAt": "2019-05-06T19:31:39.458Z"
+        }
+      ]
+    },
+    {
+      "username": "anton",
+      "messages": []
+    }
+  ]
+}
